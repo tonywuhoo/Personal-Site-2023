@@ -1,8 +1,4 @@
 # Portfolio - Web Developer
 
 
-<p align="left">
-  <img height="200" width="200" src="Images/harshit-circular.png" />
-</p>
-
-<p align="left"> Visit my profile: <a target="_blank" href="https://harshitg123.github.io/harshit_profile/" /> HARSHIT GUPTA </p>
+<p align="center"> Visit my profile: <a target="_blank" href="https://github.com/tonywuhoo/" /> Tony Wu </p>
